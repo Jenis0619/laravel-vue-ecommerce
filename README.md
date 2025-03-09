@@ -16,7 +16,6 @@ Website: https://lcommerce.net
 Email: user1@example.com
 Password: useruser1
 
-
 Email: user2@example.com
 Password: useruser2
 ```
